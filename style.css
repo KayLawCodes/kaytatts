@@ -1,0 +1,15 @@
+body {
+    background: white;
+    font-family: fantasy;
+}
+
+h1 {
+    color: green;
+    font-style: italic;
+    text-align: center;
+}
+
+h2 {
+    color: black;
+    text-align: center;
+}
